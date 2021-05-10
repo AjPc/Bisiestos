@@ -1,0 +1,16 @@
+#date1, #reinicio{
+    border: groove 0.5em green;
+    border-radius: 2em;
+    font-weight: bold;
+}
+
+.btn{
+    padding: 2;
+    min-width: 200px;
+
+}
+
+a:link, a:visited, a:active{
+    color: white !important;
+    text-decoration: none;
+}
